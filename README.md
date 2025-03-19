@@ -1,4 +1,4 @@
-This is the score distribution of our data set
+# This is the score distribution of our data set
 ![image](https://github.com/user-attachments/assets/511bb5f5-c9c0-4a78-bd19-00bfd2dbcc9c)
 
 
